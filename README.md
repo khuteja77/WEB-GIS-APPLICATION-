@@ -26,7 +26,7 @@ Clone the repository to your local machine:
 
 
 
-3. Open the `index.html` file in your web browser  .
+3. Open the `main.html` file in your web browser  .
 
 ## Features
 - **Map Display**: The application displays a base map using Leaflet.
