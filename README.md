@@ -23,10 +23,7 @@ Clone the repository to your local machine:
 
 2. Navigate to the project directory:
 
-
-
-
-3. Open the `main.html` file in your web browser  .
+3. Open the raw `main.html` file in your web browser  .
 
 ## Features
 - **Map Display**: The application displays a base map using Leaflet.
